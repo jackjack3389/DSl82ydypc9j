@@ -1,3 +1,7 @@
+/*
+This project is to get the global delcaration.
+https://drive.google.com/file/d/1XIWjc2qdzxq1_6yBNNoNxbQippMPLu97/view?usp=drive_link
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
